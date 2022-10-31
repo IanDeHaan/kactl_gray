@@ -1,0 +1,8 @@
+\texttt{
+l, r = -1, n
+while r-l > 1:
+    m = (l+r)//2
+    if F(a[m]):
+        l = m
+    else:
+        r = m}

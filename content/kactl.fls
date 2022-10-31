@@ -1,7 +1,7 @@
-PWD /home/iand/contest/kactl_ua/content
+PWD /home/iand/contest/kactl_gray/content
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/iand/contest/kactl_ua/content/kactl.tex
+INPUT /home/iand/contest/kactl_gray/content/kactl.tex
 OUTPUT kactl.log
 INPUT /usr/share/texmf-dist/tex/latex/extsizes/extreport.cls
 INPUT /usr/share/texmf-dist/tex/latex/extsizes/extreport.cls
